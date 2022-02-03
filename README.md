@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gilfoyle00
+- 👋 Hi, I’m @Gilfoyle00
 - 🌱 My current research area is formal methods and blockchain.
 - ✨ ...
 
